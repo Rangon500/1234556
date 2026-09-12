@@ -49,3 +49,5 @@ http://alpha3-ott.me:80/play/live.php?mac=00:1B:79:47:12:B3&stream=1118058&exten
 http://alpha3-ott.me:80/play/live.php?mac=00:1B:79:47:12:B3&stream=155771&extension=ts&play_token=uVSdOr6B8p
 #EXTINF:-1 tvg-url="https://tinyurl.com/mr2dec8v" group-title="RANGON",Jalsha Movies
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-url="https://tinyurl.com/mr2dec8v" group-title="RANGON",Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
