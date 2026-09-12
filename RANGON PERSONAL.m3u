@@ -1,53 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",SONY Aath
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",SONY Aath
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",T Sports HD
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",Discovery HD
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",Discovery HD
 https://tvsen3.aynaott.com/Zht5VqBb/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",Star Jalsha
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",Star Jalsha
 https://flussonic.defineatoz.com/StarjalshaHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",Zee Bangla HD(UP DATE)
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",Zee Bangla HD(UP DATE)
 https://digitalotthub.com/tv/toffee-by-maruf/live.php?id=zee_bangla&e=.m3u8
-#EXTINF:-1 group-title="RANGON",Zee Bangla HD
+#EXTINF:-1 tvg-url="" group-title="RANGON",Zee Bangla HD
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
-#EXTINF:-1 group-title="RANGON",Channel 24
+#EXTINF:-1 tvg-url="" group-title="RANGON",Channel 24
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
-#EXTINF:-1 group-title="RANGON",Discovery
+#EXTINF:-1 tvg-url="" group-title="RANGON",Discovery
 http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="RANGON",Zee Bangla Cinema
+#EXTINF:-1 tvg-url="" group-title="RANGON",Zee Bangla Cinema
 https://drk6xq0vhn.gpcdn.net/live/zee_bangla_cinema_abr/index.m3u8
-#EXTINF:-1 group-title="RANGON",BTV
+#EXTINF:-1 tvg-url="" group-title="RANGON",BTV
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
-#EXTINF:-1 group-title="RANGON",ATN Bangla
+#EXTINF:-1 tvg-url="" group-title="RANGON",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
-#EXTINF:-1 group-title="RANGON",Ekushe TV
+#EXTINF:-1 tvg-url="" group-title="RANGON",Ekushe TV
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
-#EXTINF:-1 group-title="RANGON",Banglavision
+#EXTINF:-1 tvg-url="" group-title="RANGON",Banglavision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
-#EXTINF:-1 group-title="RANGON",N TV
+#EXTINF:-1 tvg-url="" group-title="RANGON",N TV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1 group-title="RANGON",Channel i
+#EXTINF:-1 tvg-url="" group-title="RANGON",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-#EXTINF:-1 group-title="RANGON",Boishakhi
+#EXTINF:-1 tvg-url="" group-title="RANGON",Boishakhi
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#EXTINF:-1 group-title="RANGON",Ekattor HD
+#EXTINF:-1 tvg-url="" group-title="RANGON",Ekattor HD
 https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
-#EXTINF:-1 group-title="RANGON",Independent
+#EXTINF:-1 tvg-url="" group-title="RANGON",Independent
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
-#EXTINF:-1 group-title="RANGON",Somoy Tv
+#EXTINF:-1 tvg-url="" group-title="RANGON",Somoy Tv
 https://tvsen5.aynascope.net/somoytv/mono.m3u8
-#EXTINF:-1 group-title="RANGON",Jamuna
+#EXTINF:-1 tvg-url="" group-title="RANGON",Jamuna
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
-#EXTINF:-1 group-title="RANGON",Bijoy Tv
+#EXTINF:-1 tvg-url="" group-title="RANGON",Bijoy Tv
 https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/COLORS-BANGLA.png" group-title="RANGON",COLORS BANGLA
-http://alpha3-ott.me:80/play/live.php?mac=00:1B:79:47:12:B3&stream=282063&extension=ts&play_token=ty05M9XGMV
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1118058.png" group-title="RANGON",STAR JALSHA MOVIES HD
-http://alpha3-ott.me:80/play/live.php?mac=00:1B:79:47:12:B3&stream=1118058&extension=ts&play_token=MRyQcT1m5g
-#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155771.png" group-title="RANGON",STAR JALSHA MOVIES
-http://alpha3-ott.me:80/play/live.php?mac=00:1B:79:47:12:B3&stream=155771&extension=ts&play_token=uVSdOr6B8p
-#EXTINF:-1 tvg-logo="https://tinyurl.com/mr2dec8v" group-title="RANGON",Jalsha Movies
+#EXTINF:-1 tvg-url="https://tinyurl.com/mr2dec8v" group-title="RANGON",Jalsha Movies
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/79g2kMA.png" group-title="RANGON",Discovery Bengali
+#EXTINF:-1 tvg-url="https://imgur.com/79g2kMA.png" group-title="RANGON",Discovery Bengali
 http://27.116.22.53:5001/live/573.m3u8
+#EXTINF:-1 tvg-url="" group-title="RANGON",Color Bangla Cinema
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/271038.ts
+#EXTINF:-1 tvg-url="https://thumbnail.imgbin.com/20/15/16/imgbin-colors-bangla-bengali-television-show-television-channel-nepalis-mMkyqFccg0kQacbaxGNmpXFFv_t.jpg" group-title="RANGON",Colors_Bengali_HD
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/183.ts
+#EXTINF:-1 tvg-url="" group-title="RANGON",COLORS BANGLA (FHD)
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/23306.ts
+#EXTINF:-1 tvg-url="https://i.ibb.co/p4knk5y/images-4.png" group-title="RANGON",COLORS BANGLA (4K).
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/98882.ts
