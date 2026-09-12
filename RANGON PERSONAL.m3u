@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",IN: SONY Aath
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",SONY Aath
 http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/4083.ts
 #EXTINF:-1 tvg-url="https://raw.githubusercontent.com/Rangon500/1234556/main/708271282_995026656559606_2926003228345853677_n.jpg" group-title="RANGON",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
@@ -41,11 +41,11 @@ https://tvsen5.aynascope.net/somoytv/mono.m3u8
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-url="" group-title="RANGON",Bijoy Tv
 https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
-#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/logos/COLORS-BANGLA.png" group-title="RANGON",BENGALI| COLORS BANGLA
+#EXTINF:-1 tvg-url="http://103.176.90.118/picons/logos/logos/COLORS-BANGLA.png" group-title="RANGON",COLORS BANGLA
 http://alpha3-ott.me:80/play/live.php?mac=00:1B:79:47:12:B3&stream=282063&extension=ts&play_token=ty05M9XGMV
-#EXTINF:-1 tvg-url="http://picons.cmshulk.com/picons/1118058.png" group-title="RANGON",BENGALI| STAR JALSHA MOVIES HD
+#EXTINF:-1 tvg-url="http://picons.cmshulk.com/picons/1118058.png" group-title="RANGON",STAR JALSHA MOVIES HD
 http://alpha3-ott.me:80/play/live.php?mac=00:1B:79:47:12:B3&stream=1118058&extension=ts&play_token=MRyQcT1m5g
-#EXTINF:-1 tvg-url="http://picons.cmshulk.com/picons/155771.png" group-title="RANGON",BENGALI| STAR JALSHA MOVIES FHD
+#EXTINF:-1 tvg-url="http://picons.cmshulk.com/picons/155771.png" group-title="RANGON",STAR JALSHA MOVIES
 http://alpha3-ott.me:80/play/live.php?mac=00:1B:79:47:12:B3&stream=155771&extension=ts&play_token=uVSdOr6B8p
 #EXTINF:-1 tvg-url="https://tinyurl.com/mr2dec8v" group-title="RANGON",Jalsha Movies
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
