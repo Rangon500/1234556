@@ -65,8 +65,6 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 http://202.70.146.135:8000/play/a05z/index.m3u8#skym3u.dev
 #EXTINF:-1 tvg-logo="" group-title="news",BTV
 https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8#skym3u.dev
-#EXTINF:-1 tvg-logo="" group-title="DISCOVERY",DISCOVERY BANGLA
-https://stream.kliv.in/nex/air11_132315.m3u8
 #EXTINF:-1 tvg-logo="" group-title="খেলা",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="DISCOVERY",Discovery Bengali
@@ -87,3 +85,7 @@ http://premiumtvs.space:80/live/samsung2861/manager5554/9395.ts
 http://premiumtvs.space:80/live/samsung2861/manager5554/98884.ts
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/535/809/png-transparent-jalsha-movies-star-jalsha-television-show-star-india-sitarhd-purple-television-logo.png" group-title="JALSHA MOVIES",BD: STAR JALSHA MOVIES FHD
 http://premiumtvs.space:80/live/samsung2861/manager5554/425.ts
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gr9VXZTM/20240822-230259.png" group-title="news",Independent
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qx3GZn6T/20240823_024117.png" group-title="খেলা",T Sports HD
+https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
